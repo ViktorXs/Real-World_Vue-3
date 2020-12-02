@@ -23,7 +23,7 @@
       "organizer": "Fern Pollin"
     },
     {
-      "id": 999,
+      "id": 888,
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
@@ -32,6 +32,28 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    }
+    {
+      "id": 999,
+      "category": "mobile eating",
+      "title": "Canned Food Drive",
+      "description": "Don't drive with an empty stomach.",
+      "location": "Satturated Belly",
+      "date": "September 2, 2023",
+      "time": "15:00",
+      "petsAllowed": false,
+      "organizer": "Hungry Bolemia"
+    }
+    {
+      "id": 111,
+      "category": "coding fun",
+      "title": "Having fun while coding",
+      "description": "You will never be sad anymore while coding.",
+      "location": "Binary Pyramid",
+      "date": "January 01, 1010",
+      "time": "10:01",
+      "petsAllowed": true,
+      "organizer": "Foo Bar"
     }
   ]
 }
