@@ -55,5 +55,23 @@
       "petsAllowed": true,
       "organizer": "Foo Bar"
     }
+  ],
+  "keks": [
+    {
+      "id": 1,
+      "name": "Gustav"
+    },
+    {
+      "id": 2,
+      "name": "Kevin"
+    },
+    {
+      "id": 3,
+      "name": "Shantalle"
+    },
+    {
+      "id": 4,
+      "name": "Jèrémý-Pásqúàlè"
+    }
   ]
 }
