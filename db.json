@@ -55,8 +55,8 @@
       "petsAllowed": true,
       "organizer": "Foo Bar"
     }
-  ],
-    "keks": [
+   ],
+  "keks": [
     {
       "id": 1,
       "name": "Kevin"
@@ -72,6 +72,6 @@
     {
       "id": 4,
       "name": "Egon"
-    },
+    }
   ]
 }
