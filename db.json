@@ -59,19 +59,19 @@
     "keks": [
     {
       "id": 1,
-      "kek": "Kevin"
+      "name": "Kevin"
     },
     {
       "id": 2,
-      "kek": "Shantalle"
+      "name": "Shantalle"
     },
     {
       "id": 3,
-      "kek": "Jeremy-Pascuale"
+      "name": "Jeremy-Pascuale"
     },
     {
       "id": 4,
-      "kek": "Egon"
+      "name": "Egon"
     },
     }
   ]
