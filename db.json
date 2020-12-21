@@ -60,19 +60,19 @@
     {
       "id": 1,
       "title": "Backend Developer",
-      "time": "3",
+      "time": 3,
       "details": "nothing"
     },
         {
       "id": 2,
       "title": "Frontend Developer",
-      "time": "2",
+      "time": 2,
       "details": "anything"
     },
         {
       "id": 3,
       "title": "Codetester",
-      "time": "4",
+      "time": 4,
       "details": "something"
     }
   ]
