@@ -10,6 +10,7 @@
       "time": "12:00",
       "petsAllowed": true,
       "attendees": 1,
+      "user":"Viktor",
       "organizer": "Kat Layde"
     },
     {
@@ -22,6 +23,7 @@
       "time": "10:00",
       "petsAllowed": true,
       "attendees": 4,
+      "user":"Viktor",
       "organizer": "Fern Pollin"
     },
     {
@@ -34,6 +36,7 @@
       "time": "11:00",
       "petsAllowed": false,
       "attendees": 0,
+      "user":"Viktor",
       "organizer": "Carey Wales"
     },
     {
@@ -46,6 +49,7 @@
       "time": "15:00",
       "petsAllowed": false,
       "attendees": 1,
+      "user":"Viktor",
       "organizer": "Hungry Bolemia"
     },
     {
@@ -58,6 +62,7 @@
       "time": "10:01",
       "petsAllowed": true,
       "attendees": 2,
+      "user":"Viktor",
       "organizer": "Foo Bar"
     }
   ],
