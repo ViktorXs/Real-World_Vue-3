@@ -9,8 +9,6 @@
       "date": "January 28, 2022",
       "time": "12:00",
       "petsAllowed": true,
-      "attendees": 1,
-      "user":"Viktor",
       "organizer": "Kat Layde"
     },
     {
@@ -22,8 +20,6 @@
       "date": "March 14, 2022",
       "time": "10:00",
       "petsAllowed": true,
-      "attendees": 4,
-      "user":"Viktor",
       "organizer": "Fern Pollin"
     },
     {
@@ -35,8 +31,6 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "petsAllowed": false,
-      "attendees": 0,
-      "user":"Viktor",
       "organizer": "Carey Wales"
     },
     {
@@ -48,8 +42,6 @@
       "date": "September 2, 2023",
       "time": "15:00",
       "petsAllowed": false,
-      "attendees": 1,
-      "user":"Viktor",
       "organizer": "Hungry Bolemia"
     },
     {
@@ -61,8 +53,6 @@
       "date": "01, 01, 0111 1110 0101",
       "time": "10:01",
       "petsAllowed": true,
-      "attendees": 2,
-      "user":"Viktor",
       "organizer": "Foo Bar"
     }
   ],
